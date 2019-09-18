@@ -1,7 +1,7 @@
 googleapiclient
 xlrd
 pprint
-pandas as pd
+pandas
 pandas_profiling
 numpy
 matplotlib
