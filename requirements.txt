@@ -1,4 +1,4 @@
-googleapi
+google-api-python-client
 xlrd
 pprint
 pandas
